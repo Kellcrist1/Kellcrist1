@@ -22,6 +22,8 @@ drawing and reading.
 
 🤡 Fun fact: i play MTG and Pokemon.
 
+<img src="assets/seu-gif.gif" width="300" />
+
 <div>
   <a href="https://github.com/kellcrist1">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kellcrist1&show_icons=false&theme=dracula&include_all_commits=false&count_private=false"/>
