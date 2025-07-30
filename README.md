@@ -22,7 +22,7 @@ drawing and reading.
 
 🤡 Fun fact: i play MTG and Pokemon.
 
-<img src="VdeodoWhatsAppde2025-07-29s21.19.17_a4ef2b62-ezgif.com-video-to-gif-converter.mp4" width="300" />
+<img src="VdeodoWhatsAppde2025-07-29s21.19.17_a4ef2b62-ezgif.com-video-to-gif-converter.gif="300" />
 
 <div>
   <a href="https://github.com/kellcrist1">
