@@ -22,7 +22,7 @@ drawing and reading.
 
 🤡 Fun fact: i play MTG and Pokemon.
 
-Vídeo do WhatsApp de 2025-07-29 à(s) 21.19.17_a4ef2b62.mp4
+<img src="assets/Vídeo do WhatsApp de 2025-07-29 à(s) 21.19.17_a4ef2b62.mp4.gif" width="300" />
 
 <div>
   <a href="https://github.com/kellcrist1">
