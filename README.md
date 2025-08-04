@@ -1,5 +1,5 @@
 # KerolimCristina
-Olá!👋🏻 Eu sou a Kerolim Cristina...
+Hi there!👋🏻 i'm Kerolim Cristina...
 
 I'm a Software Engineering student and currently taking a Python programming course at SENAI. I'm also delving deeper into data analysis
 with SQL and studying English to expand my professional
