@@ -14,7 +14,7 @@ drawing and reading.
 
 🔎 I'm looking for help with HTML, CSS and JavaScript languages;
 
-❓ Ask me about: RUBY, C#, C++, PHP. C and JAVA;
+❓ Ask me about: RUBY, C#, C++, PHP, C and JAVA;
 
 📲 How to reach me: E-mail: Kerolimcristina_16@live.com | LinkedIn: Kerolim Cristina dos Santos;
 
