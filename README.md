@@ -12,8 +12,8 @@ drawing and reading.
 </div>
 <div align="center">
   <a href="https://github.com/kellcrist1">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=kellcrist1&show_icons=false&theme=radical&include_all_commits=false&count_private=false"/>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellcrist1&layout=compact&langs_count=16&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kellcrist1&show_icons=false&theme=radical&include_all_commits=false&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellcrist1&layout=compact&langs_count=16&theme=radical"/>
   </a>
 </div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FE47FF00&width=435&height=100&lines=My+skills+~" alt="Typing SVG" /></a>
