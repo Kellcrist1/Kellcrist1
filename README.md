@@ -21,7 +21,9 @@ drawing and reading.
 💡 Pronouns: She/Her;
 
 🤡 Fun fact: i play MTG and Pokemon.
-
+<div>
+<a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/kerolim-cristina-dos-santos-a238a6153/)"(https://www.linkedin.com/in/kerolim-cristina-dos-santos-a238a6153/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 <img src="VdeodoWhatsAppde2025-07-29s21.19.17_a4ef2b62-ezgif.com-video-to-gif-converter.gif" width="300" />
 
 <div>
