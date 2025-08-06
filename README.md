@@ -1,4 +1,4 @@
-<<p style="color:#00bfff; font-size:20px;">🫧 KerolimCristina 🫧</p>
+<p style="color:#00bfff; font-size:20px;">🫧 KerolimCristina 🫧</p>
 Hi there!👋🏻 I'm Kerolim Cristina...
 
 I'm a Software Engineering student and currently taking a Python programming course at SENAI. I'm also delving deeper into data analysis
