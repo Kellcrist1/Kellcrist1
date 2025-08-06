@@ -9,7 +9,7 @@ drawing and reading.
 </div>
 <div align="center">
   <img src="VdeodoWhatsAppde2025-07-29s21.19.17_a4ef2b62-ezgif.com-video-to-gif-converter.gif" width="300" />
-  <img src="pixel-artist-opening-3-commission-slots-v0-m7tslpofuzjb1.gif" width="200" />
+  <img src="pixel-artist-opening-3-commission-slots-v0-m7tslpofuzjb1.gif" width="300" />
   <img src="kellc.gif" width="200" />
 </div>
 <div align="center">
