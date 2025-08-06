@@ -1,6 +1,4 @@
-KEROLIM CRISTINA
-
-Hi there!👋🏻 I'm Kerolim Cristina...
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous+Static&pause=1000&width=435&lines=🫧 Kerolim+Cristina 🫧" alt="Typing SVG" /></a>
 
 I'm a Software Engineering student and currently taking a Python programming course at SENAI. I'm also delving deeper into data analysis
 with SQL and studying English to expand my professional
