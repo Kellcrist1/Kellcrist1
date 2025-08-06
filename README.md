@@ -8,7 +8,7 @@ drawing and reading.
 <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/kerolim-cristina-dos-santos-a238a6153/)"(https://www.linkedin.com/in/kerolim-cristina-dos-santos-a238a6153/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <div align="center">
-  <img src="kellc.gif" width="600" />
+  <img src="kellc.gif" width="900" />
 </div>
 <div align="center">
   <a href="https://github.com/kellcrist1">
