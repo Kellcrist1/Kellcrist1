@@ -1,5 +1,4 @@
-
-<img src="https://img.shields.io/badge/Kerolim%20Cristina-00bfff?style=for-the-badge&logoColor=white&color=00bfff" />
+KEROLIM CRISTINA
 
 Hi there!👋🏻 I'm Kerolim Cristina...
 
