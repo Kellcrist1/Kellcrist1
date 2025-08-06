@@ -11,8 +11,8 @@ drawing and reading.
 
 <div>
   <a href="https://github.com/kellcrist1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kellcrist1&show_icons=false&theme=dracula&include_all_commits=false&count_private=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellcrist1&layout=compact&langs_count=16&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kellcrist1&show_icons=false&theme=radical&include_all_commits=false&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellcrist1&layout=compact&langs_count=16&theme=radical"/>
   </a>
 </div>
    My skills:
