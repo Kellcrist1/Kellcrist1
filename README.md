@@ -1,4 +1,4 @@
-👩🏻‍💻 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&background=FE47FF00&width=435&height=100&lines=Kerolim+Cristina" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&background=FE47FF00&width=435&height=100&lines=👩🏻‍💻Kerolim+Cristina" alt="Typing SVG" /></a>
 
 I'm a Software Engineering student and currently taking a Python programming course at SENAI. I'm also delving deeper into data analysis
 with SQL and studying English to expand my professional
